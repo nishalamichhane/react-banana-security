@@ -12,7 +12,6 @@ button {
   color: white;
   font-weight: bold;
 }
-
 /*Zorgt ervoor dat als twee buttons naast elkaar staan, er altijd ruimte tussen blijft*/
 button + button {
   margin-left: 8px;
